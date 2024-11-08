@@ -1,0 +1,785 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Apple MacBook Pro 14",
+        "product_image": "https://i.ibb.co.com/qFDvF9B/1.jpg",
+        "category": "Laptop",
+        "price": 1999,
+        "description": "A high-performance laptop with Apple's M1 Pro chip, perfect for creative professionals.",
+        "specification": [
+          "Processor: M1 Pro",
+          "RAM: 16GB",
+          "Storage: 512GB SSD",
+          "Graphics: Apple M1 Pro 14-core",
+          "Display: 14-inch, 3024x1964",
+          "Battery Life: 17 hours",
+          "OS: macOS"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 2,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/Qp8mZmz/2.webp",
+        "category": "Laptop",
+        "price": 1499,
+        "description": "Compact and powerful, the Dell XPS 13 is a stylish ultrabook with impressive performance.",
+        "specification": [
+          "Processor: Intel Core i7-1165G7",
+          "RAM: 16GB",
+          "Storage: 1TB SSD",
+          "Graphics: Intel Iris Xe",
+          "Display: 13.4-inch, 1920x1200",
+          "Battery Life: 14 hours",
+          "OS: Windows 11"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 3,
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/syF4qLC/3.jpg",
+        "category": "Laptop",
+        "price": 1349,
+        "description": "A versatile 2-in-1 laptop with a sleek design and high performance for everyday tasks.",
+        "specification": [
+          "Processor: Intel Core i7-1260P",
+          "RAM: 16GB",
+          "Storage: 512GB SSD",
+          "Graphics: Intel Iris Xe",
+          "Display: 13.5-inch, 1920x1280",
+          "Battery Life: 13 hours",
+          "OS: Windows 11"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 4,
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://i.ibb.co.com/0ZJwbdZ/4.jpg",
+        "category": "Laptop",
+        "price": 1249,
+        "description": "Durable and reliable, the ThinkPad X1 Carbon is ideal for professionals on the go.",
+        "specification": [
+          "Processor: Intel Core i5-1240P",
+          "RAM: 8GB",
+          "Storage: 256GB SSD",
+          "Graphics: Intel UHD",
+          "Display: 14-inch, 1920x1200",
+          "Battery Life: 15 hours",
+          "OS: Windows 11"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 5,
+        "product_title": "Asus ZenBook 14",
+        "product_image": "https://i.ibb.co.com/tppxkcZ/5.webp",
+        "category": "Laptop",
+        "price": 999,
+        "description": "A compact and affordable laptop with powerful AMD Ryzen performance.",
+        "specification": [
+          "Processor: AMD Ryzen 7 5800U",
+          "RAM: 16GB",
+          "Storage: 1TB SSD",
+          "Graphics: AMD Radeon",
+          "Display: 14-inch, 1920x1080",
+          "Battery Life: 12 hours",
+          "OS: Windows 11"
+        ],
+        "availability": false,
+        "rating": 4.4
+      },
+      {
+        "product_id": 6,
+        "product_title": "Acer Swift 3",
+        "product_image": "https://i.ibb.co.com/2W2f5kL/Acer-Swift-3.jpg",
+        "category": "Laptop",
+        "price": 749,
+        "description": "Affordable and lightweight, ideal for students and everyday use.",
+        "specification": [
+          "Processor: AMD Ryzen 5 5600U",
+          "RAM: 8GB",
+          "Storage: 512GB SSD",
+          "Graphics: AMD Radeon",
+          "Display: 14-inch, 1920x1080",
+          "Battery Life: 10 hours",
+          "OS: Windows 11"
+        ],
+        "availability": true,
+        "rating": 4.3
+      },
+      {
+        "product_id": 7,
+        "product_title": "Microsoft Surface Laptop 4",
+        "product_image": "https://i.ibb.co.com/0mrVj12/7.jpg",
+        "category": "Laptop",
+        "price": 999,
+        "description": "Sleek and elegant with a high-resolution touchscreen, great for productivity.",
+        "specification": [
+          "Processor: AMD Ryzen 5 4680U",
+          "RAM: 8GB",
+          "Storage: 256GB SSD",
+          "Graphics: AMD Radeon",
+          "Display: 13.5-inch, 2256x1504",
+          "Battery Life: 11 hours",
+          "OS: Windows 11"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 8,
+        "product_title": "Razer Blade 14",
+        "product_image": "https://i.ibb.co.com/zP3RZpV/8.jpg",
+        "category": "Laptop",
+        "price": 1999,
+        "description": "High-performance gaming laptop with NVIDIA RTX graphics and a stunning display.",
+        "specification": [
+          "Processor: AMD Ryzen 9 5900HX",
+          "RAM: 16GB",
+          "Storage: 1TB SSD",
+          "Graphics: NVIDIA GeForce RTX 3060",
+          "Display: 14-inch, 2560x1440",
+          "Battery Life: 8 hours",
+          "OS: Windows 11"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 9,
+        "product_title": "Samsung Galaxy Book Pro",
+        "product_image": "https://i.ibb.co.com/GJ5qfHx/9.webp",
+        "category": "Laptop",
+        "price": 899,
+        "description": "Ultra-thin and lightweight with an impressive battery life, ideal for travel.",
+        "specification": [
+          "Processor: Intel Core i5-1135G7",
+          "RAM: 8GB",
+          "Storage: 512GB SSD",
+          "Graphics: Intel Iris Xe",
+          "Display: 15.6-inch, 1920x1080",
+          "Battery Life: 20 hours",
+          "OS: Windows 10"
+        ],
+        "availability": false,
+        "rating": 4.2
+      },
+      {
+        "product_id": 10,
+        "product_title": "Apple iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/t2VRJPh/10.jpg",
+        "category": "Smartphone",
+        "price": 999,
+        "description": "The latest iPhone with advanced camera features and powerful A16 Bionic chip.",
+        "specification": [
+          "Processor: A16 Bionic",
+          "RAM: 6GB",
+          "Storage: 128GB",
+          "Display: 6.1-inch OLED, 2556x1179",
+          "Camera: 48MP triple camera",
+          "Battery Life: Up to 23 hours",
+          "OS: iOS 16"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": 11,
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/Rh1C4Nj/11.jpg",
+        "category": "Smartphone",
+        "price": 1199,
+        "description": "A flagship phone with a stunning display and powerful camera features.",
+        "specification": [
+          "Processor: Snapdragon 8 Gen 2",
+          "RAM: 12GB",
+          "Storage: 256GB",
+          "Display: 6.8-inch QHD+, 3088x1440",
+          "Camera: 200MP quad camera",
+          "Battery Life: Up to 24 hours",
+          "OS: Android 13"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 12,
+        "product_title": "Google Pixel 7 Pro",
+        "product_image": "https://i.ibb.co.com/8r1vtMs/12.jpg",
+        "category": "Smartphone",
+        "price": 899,
+        "description": "Google’s flagship phone with excellent AI-powered photography.",
+        "specification": [
+          "Processor: Google Tensor G2",
+          "RAM: 12GB",
+          "Storage: 128GB",
+          "Display: 6.7-inch OLED, 3120x1440",
+          "Camera: 50MP triple camera",
+          "Battery Life: Up to 20 hours",
+          "OS: Android 13"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 13,
+        "product_title": "OnePlus 11",
+        "product_image": "https://i.ibb.co.com/M56Chq4/13.jpg",
+        "category": "Smartphone",
+        "price": 699,
+        "description": "A high-performance phone with a sleek design and fast charging.",
+        "specification": [
+          "Processor: Snapdragon 8 Gen 2",
+          "RAM: 8GB",
+          "Storage: 128GB",
+          "Display: 6.7-inch AMOLED, 3216x1440",
+          "Camera: 50MP triple camera",
+          "Battery Life: Up to 18 hours",
+          "OS: OxygenOS (Android 13)"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 14,
+        "product_title": "Xiaomi 13 Pro",
+        "product_image": "https://i.ibb.co.com/7rZhntn/14.jpg",
+        "category": "Smartphone",
+        "price": 799,
+        "description": "Flagship Xiaomi phone with impressive display and camera capabilities.",
+        "specification": [
+          "Processor: Snapdragon 8 Gen 2",
+          "RAM: 12GB",
+          "Storage: 256GB",
+          "Display: 6.73-inch LTPO OLED, 3200x1440",
+          "Camera: 50MP triple camera",
+          "Battery Life: Up to 19 hours",
+          "OS: MIUI (Android 13)"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 15,
+        "product_title": "Sony Xperia 1 IV",
+        "product_image": "https://i.ibb.co.com/nQ12GrM/15.webp",
+        "category": "Smartphone",
+        "price": 999,
+        "description": "Sony’s premium phone with a 4K OLED display and advanced camera features.",
+        "specification": [
+          "Processor: Snapdragon 8 Gen 1",
+          "RAM: 12GB",
+          "Storage: 256GB",
+          "Display: 6.5-inch 4K OLED, 3840x1644",
+          "Camera: 12MP quad camera",
+          "Battery Life: Up to 22 hours",
+          "OS: Android 12"
+        ],
+        "availability": false,
+        "rating": 4.4
+      },
+      {
+        "product_id": 16,
+        "product_title": "Huawei Mate 50 Pro",
+        "product_image": "https://i.ibb.co.com/CHPHMN5/16.jpg",
+        "category": "Smartphone",
+        "price": 1099,
+        "description": "Premium Huawei phone with impressive camera and battery features.",
+        "specification": [
+          "Processor: Snapdragon 8+ Gen 1",
+          "RAM: 8GB",
+          "Storage: 256GB",
+          "Display: 6.74-inch OLED, 2616x1212",
+          "Camera: 50MP triple camera",
+          "Battery Life: Up to 25 hours",
+          "OS: HarmonyOS"
+        ],
+        "availability": false,
+        "rating": 4.3
+      },
+      {
+        "product_id": 17,
+        "product_title": "Oppo Find X5 Pro",
+        "product_image": "https://i.ibb.co.com/P1rvx2z/17.webp",
+        "category": "Smartphone",
+        "price": 899,
+        "description": "Oppo’s flagship phone with stunning design and strong camera performance.",
+        "specification": [
+          "Processor: Snapdragon 8 Gen 1",
+          "RAM: 12GB",
+          "Storage: 256GB",
+          "Display: 6.7-inch AMOLED, 3216x1440",
+          "Camera: 50MP triple camera",
+          "Battery Life: Up to 20 hours",
+          "OS: ColorOS (Android 12)"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 18,
+        "product_title": "Oppo Find X5 Pro",
+        "product_image": "https://i.ibb.co.com/NL7f7YR/18.jpg",
+        "category": "Smartphone",
+        "price": 999,
+        "description": "A gaming-focused phone with a high-refresh display and advanced cooling.",
+        "specification": [
+          "Processor: Snapdragon 8+ Gen 1",
+          "RAM: 16GB",
+          "Storage: 512GB",
+          "Display: 6.78-inch AMOLED, 2448x1080, 165Hz",
+          "Camera: 50MP triple camera",
+          "Battery Life: Up to 18 hours",
+          "OS: ROG UI (Android 12)"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 19,
+        "product_title": "Apple AirPods Pro (2nd Gen)",
+        "product_image": "https://i.ibb.co.com/SKnz3C7/19.jpg",
+        "category": "Gadgets",
+        "price": 249,
+        "description": "Noise-cancelling wireless earbuds with immersive sound quality and long battery life.",
+        "specification": [
+          "Battery Life: Up to 6 hours (earbuds), 24 hours (with case)",
+          "Noise Cancellation: Active",
+          "Connectivity: Bluetooth 5.3",
+          "Water Resistance: IPX4"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 20,
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://i.ibb.co.com/DtDQC1b/20.webp",
+        "category": "Smartwatch",
+        "price": 279,
+        "description": "A stylish smartwatch with health tracking, GPS, and customizable watch faces.",
+        "specification": [
+          "Display: 1.4-inch Super AMOLED",
+          "Battery Life: Up to 50 hours",
+          "Water Resistance: 5 ATM",
+          "Compatibility: Android"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 21,
+        "product_title": "Anker PowerCore 10000",
+        "product_image": "https://i.ibb.co.com/qFvhhKG/21.jpg",
+        "category": "Gadgets",
+        "price": 25,
+        "description": "Compact and lightweight 10000mAh power bank for on-the-go charging.",
+        "specification": [
+          "Capacity: 10000mAh",
+          "Output Ports: 1 USB-A",
+          "Charging Speed: 2.4A",
+          "Weight: 180g"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 22,
+        "product_title": "Logitech MX Master 3S",
+        "product_image": "https://i.ibb.co.com/80G1p7V/22.jpg",
+        "category": "Gadgets",
+        "price": 99,
+        "description": "Ergonomic mouse with precise tracking and customizable buttons, ideal for productivity.",
+        "specification": [
+          "Connectivity: Bluetooth, USB Receiver",
+          "Battery Life: Up to 70 days",
+          "DPI: 4000",
+          "Compatibility: Windows, macOS, Linux"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 23,
+        "product_title": "JBL Flip 6",
+        "product_image": "https://i.ibb.co.com/TM5G8CX/23.jpg",
+        "category": "Gadgets",
+        "price": 129,
+        "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
+        "specification": [
+          "Battery Life: Up to 12 hours",
+          "Water Resistance: IP67",
+          "Connectivity: Bluetooth 5.1",
+          "Weight: 550g"
+        ],
+        "availability": false,
+        "rating": 4.6
+      },
+      {
+        "product_id": 24,
+        "product_title": "SanDisk Ultra Dual Drive",
+        "product_image": "https://i.ibb.co.com/K6mmfmG/24.webp",
+        "category": "Gadgets",
+        "price": 35,
+        "description": "Dual-interface USB drive with USB-A and USB-C compatibility, perfect for transferring files.",
+        "specification": [
+          "Storage Capacity: 128GB",
+          "Interface: USB-A, USB-C",
+          "Read Speed: Up to 150MB/s",
+          "Compatibility: Android, Windows, macOS"
+        ],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": 25,
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://i.ibb.co.com/zQPfFRT/25.webp",
+        "category": "Gadgets",
+        "price": 399,
+        "description": "Industry-leading noise-cancelling headphones with superior sound quality and battery life.",
+        "specification": [
+          "Battery Life: Up to 30 hours",
+          "Noise Cancellation: Active",
+          "Connectivity: Bluetooth 5.2",
+          "Compatibility: Windows, macOS, Android, iOS"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": 26,
+        "product_title": "Belkin BoostCharge 3-in-1 Wireless Charger",
+        "product_image": "https://i.ibb.co.com/wMMD9gj/26.jpg",
+        "category": "Gadgets",
+        "price": 129,
+        "description": "All-in-one wireless charging solution for iPhone, Apple Watch, and AirPods.",
+        "specification": [
+          "Output: 15W for iPhone, 5W for AirPods, Apple Watch",
+          "Compatibility: Qi-certified",
+          "Input: 24W power adapter included",
+          "Dimensions: 7.1 x 3.1 x 5.3 inches"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 27,
+        "product_title": "Amazon Echo Dot (5th Gen)",
+        "product_image": "https://i.ibb.co.com/bztLvf1/27.jpg",
+        "category": "Gadgets",
+        "price": 49,
+        "description": "Compact smart speaker with Alexa, perfect for smart home control and entertainment.",
+        "specification": [
+          "Voice Assistant: Alexa",
+          "Audio Output: 1.73-inch speaker",
+          "Connectivity: Bluetooth, Wi-Fi",
+          "Compatibility: Smart home devices"
+        ],
+        "availability": false,
+        "rating": 4.6
+      },
+      {
+        "product_id": 28,
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/VHFCbr2/28.jpg",
+        "category": "Smartwatch",
+        "price": 399,
+        "description": "Advanced health-tracking smartwatch with ECG, fall detection, and water resistance.",
+        "specification": [
+          "Display: 1.9-inch Retina OLED",
+          "Battery Life: Up to 18 hours",
+          "Water Resistance: 50 meters",
+          "Sensors: ECG, Blood Oxygen, Heart Rate"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 29,
+        "product_title": "Samsung Galaxy Watch 5 Pro",
+        "product_image": "https://i.ibb.co.com/sFRHg3n/29.jpg",
+        "category": "Smartwatch",
+        "price": 449,
+        "description": "Rugged smartwatch with GPS, advanced health tracking, and AMOLED display.",
+        "specification": [
+          "Display: 1.4-inch Super AMOLED",
+          "Battery Life: Up to 80 hours",
+          "Water Resistance: IP68",
+          "Sensors: Heart Rate, SpO2, ECG"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 30,
+        "product_title": "Garmin Forerunner 255",
+        "product_image": "https://i.ibb.co.com/SXrtPR1/30.webp",
+        "category": "Smartwatch",
+        "price": 349,
+        "description": "GPS smartwatch designed for runners with VO2 max and heart rate monitoring.",
+        "specification": [
+          "Display: 1.3-inch Transflective",
+          "Battery Life: Up to 14 days",
+          "Water Resistance: 50 meters",
+          "Features: GPS, VO2 max, Body Battery"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 31,
+        "product_title": "Fitbit Sense 2",
+        "product_image": "https://i.ibb.co.com/QnzQDd1/31.jpg",
+        "category": "Smartwatch",
+        "price": 299,
+        "description": "Health-focused smartwatch with ECG, stress tracking, and sleep monitoring.",
+        "specification": [
+          "Display: 1.58-inch AMOLED",
+          "Battery Life: Up to 6 days",
+          "Water Resistance: 50 meters",
+          "Sensors: ECG, Skin Temperature, Heart Rate"
+        ],
+        "availability": false,
+        "rating": 4.5
+      },
+      {
+        "product_id": 32,
+        "product_title": "Amazfit GTR 4",
+        "product_image": "https://i.ibb.co.com/G3fnFvR/32.jpg",
+        "category": "Smartwatch",
+        "price": 199,
+        "description": "Stylish and affordable smartwatch with AMOLED display and multi-sport tracking.",
+        "specification": [
+          "Display: 1.43-inch AMOLED",
+          "Battery Life: Up to 14 days",
+          "Water Resistance: 50 meters",
+          "Features: GPS, PAI, SpO2"
+        ],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": 33,
+        "product_title": "Huawei Watch GT 3 Pro",
+        "product_image": "https://i.ibb.co.com/zxmhBYX/33.jpg",
+        "category": "Smartwatch",
+        "price": 349,
+        "description": "Premium smartwatch with titanium body, long battery life, and advanced fitness features.",
+        "specification": [
+          "Display: 1.43-inch AMOLED",
+          "Battery Life: Up to 14 days",
+          "Water Resistance: 30 meters",
+          "Features: GPS, Heart Rate, SpO2, ECG"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 34,
+        "product_title": "Fossil Gen 6",
+        "product_image": "https://i.ibb.co.com/hX5Dzbx/34.jpg",
+        "category": "Smartwatch",
+        "price": 299,
+        "description": "Stylish Wear OS smartwatch with fast charging and multiple health sensors.",
+        "specification": [
+          "Display: 1.28-inch AMOLED",
+          "Battery Life: Up to 24 hours",
+          "Water Resistance: 30 meters",
+          "Sensors: Heart Rate, SpO2"
+        ],
+        "availability": false,
+        "rating": 4.3
+      },
+      {
+        "product_id": 35,
+        "product_title": "Withings ScanWatch",
+        "product_image": "https://i.ibb.co.com/G7Rfz3P/35.jpg",
+        "category": "Smartwatch",
+        "price": 279,
+        "description": "Hybrid smartwatch with ECG and SpO2 tracking, designed for health-conscious users.",
+        "specification": [
+          "Display: Hybrid with OLED screen",
+          "Battery Life: Up to 30 days",
+          "Water Resistance: 50 meters",
+          "Sensors: ECG, SpO2, Heart Rate"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 36,
+        "product_title": "Mobvoi TicWatch Pro 3 Ultra",
+        "product_image": "https://i.ibb.co.com/wyvPNDy/36.jpg",
+        "category": "Smartwatch",
+        "price": 299,
+        "description": "Dual-display smartwatch with high durability and extensive fitness tracking features.",
+        "specification": [
+          "Display: 1.4-inch Dual AMOLED + FSTN",
+          "Battery Life: Up to 45 days (Essential Mode)",
+          "Water Resistance: IP68",
+          "Features: GPS, Heart Rate, SpO2, PPG"
+        ],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": 37,
+        "product_title": "MacBook Air M1",
+        "product_image": "https://i.ibb.co.com/kJrBJZX/37.webp",
+        "category": "MacBook",
+        "price": 999,
+        "description": "Lightweight and powerful with the M1 chip, offering long battery life and fast performance.",
+        "specification": [
+          "Display: 13.3-inch Retina",
+          "Processor: Apple M1",
+          "RAM: 8GB",
+          "Storage: 256GB SSD",
+          "Battery Life: Up to 18 hours"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 38,
+        "product_title": "MacBook Pro 13-inch M2",
+        "product_image": "https://i.ibb.co.com/gPbSpvj/38.jpg",
+        "category": "MacBook",
+        "price": 1299,
+        "description": "13-inch MacBook Pro with M2 chip, offering powerful performance in a compact form.",
+        "specification": [
+          "Display: 13.3-inch Retina",
+          "Processor: Apple M2",
+          "RAM: 8GB",
+          "Storage: 256GB SSD",
+          "Battery Life: Up to 20 hours"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 39,
+        "product_title": "MacBook Pro 14-inch M1 Pro",
+        "product_image": "https://i.ibb.co.com/gZZnd6h/39.jpg",
+        "category": "MacBook",
+        "price": 1999,
+        "description": "High-performance MacBook Pro with M1 Pro chip, designed for professional workflows.",
+        "specification": [
+          "Display: 14.2-inch Liquid Retina XDR",
+          "Processor: Apple M1 Pro",
+          "RAM: 16GB",
+          "Storage: 512GB SSD",
+          "Battery Life: Up to 17 hours"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": 40,
+        "product_title": "MacBook Pro 16-inch M1 Max",
+        "product_image": "https://i.ibb.co.com/41FKSg6/40.jpg",
+        "category": "MacBook",
+        "price": 2499,
+        "description": "Powerful 16-inch MacBook Pro with M1 Max chip, optimized for demanding applications.",
+        "specification": [
+          "Display: 16.2-inch Liquid Retina XDR",
+          "Processor: Apple M1 Max",
+          "RAM: 32GB",
+          "Storage: 1TB SSD",
+          "Battery Life: Up to 21 hours"
+        ],
+        "availability": false,
+        "rating": 4.9
+      },
+      {
+        "product_id": 41,
+        "product_title": "MacBook Air 15-inch M2",
+        "product_image": "https://i.ibb.co.com/TWB5tNy/41.jpg",
+        "category": "MacBook",
+        "price": 1299,
+        "description": "New 15-inch MacBook Air with M2 chip, providing a larger display and lightweight design.",
+        "specification": [
+          "Display: 15.2-inch Retina",
+          "Processor: Apple M2",
+          "RAM: 8GB",
+          "Storage: 256GB SSD",
+          "Battery Life: Up to 18 hours"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 42,
+        "product_title": "MacBook Pro 13-inch Intel",
+        "product_image": "https://i.ibb.co.com/NTFPshn/42.jpg",
+        "category": "MacBook",
+        "price": 1099,
+        "description": "Classic MacBook Pro with Intel processor for users who prefer traditional macOS support.",
+        "specification": [
+          "Display: 13.3-inch Retina",
+          "Processor: Intel Core i5",
+          "RAM: 8GB",
+          "Storage: 512GB SSD",
+          "Battery Life: Up to 10 hours"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 43,
+        "product_title": "MacBook Pro 15-inch Intel",
+        "product_image": "https://i.ibb.co.com/MDjrRdM/43.webp",
+        "category": "MacBook",
+        "price": 1999,
+        "description": "15-inch MacBook Pro with Intel processor, a solid choice for professionals.",
+        "specification": [
+          "Display: 15.4-inch Retina",
+          "Processor: Intel Core i7",
+          "RAM: 16GB",
+          "Storage: 512GB SSD",
+          "Battery Life: Up to 11 hours"
+        ],
+        "availability": false,
+        "rating": 4.4
+      },
+      {
+        "product_id": 44,
+        "product_title": "MacBook Air 13-inch (2020, Intel)",
+        "product_image": "https://i.ibb.co.com/MSnDK21/44.jpg",
+        "category": "MacBook",
+        "price": 899,
+        "description": "Budget-friendly MacBook Air with Intel processor for essential tasks.",
+        "specification": [
+          "Display: 13.3-inch Retina",
+          "Processor: Intel Core i3",
+          "RAM: 8GB",
+          "Storage: 256GB SSD",
+          "Battery Life: Up to 12 hours"
+        ],
+        "availability": true,
+        "rating": 4.3
+      },
+      {
+        "product_id": 45,
+        "product_title": "MacBook Air M2",
+        "product_image": "https://i.ibb.co.com/wQGvsXT/45.jpg",
+        "category": "MacBook",
+        "price": 1199,
+        "description": "Updated MacBook Air with M2 chip, ideal for light to medium tasks with improved graphics.",
+        "specification": [
+          "Display: 13.6-inch Liquid Retina",
+          "Processor: Apple M2",
+          "RAM: 8GB",
+          "Storage: 256GB SSD",
+          "Battery Life: Up to 18 hours"
+        ],
+        "availability": true,
+        "rating": 4.7
+      }
+]
