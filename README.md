@@ -1,4 +1,4 @@
-# Gadget-Haven
+#  GadgetHeaven E-Commerce a gadget-buying website
 
 ## Description
 
